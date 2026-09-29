@@ -161,4 +161,4 @@ data/processed/*
 # =========================
 
 config/local*
-config/*local*
+config/*local*leads.csv
